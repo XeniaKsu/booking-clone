@@ -1,0 +1,24 @@
+{
+  "name": "booking-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeniaKsu/booking-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XeniaKsu/booking-clone/issues"
+  },
+  "homepage": "https://github.com/XeniaKsu/booking-clone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
